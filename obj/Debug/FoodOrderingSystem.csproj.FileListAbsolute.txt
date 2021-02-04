@@ -1,0 +1,38 @@
+C:\Users\atame\Desktop\YemekSepeti\obj\Debug\FoodOrderingSystem.csprojAssemblyReference.cache
+C:\Users\atame\Desktop\YemekSepeti\obj\Debug\FoodOrderingSystem.Form1.resources
+C:\Users\atame\Desktop\YemekSepeti\obj\Debug\YemekSepeti.Properties.Resources.resources
+C:\Users\atame\Desktop\YemekSepeti\obj\Debug\FoodOrderingSystem.csproj.GenerateResource.cache
+C:\Users\atame\Desktop\YemekSepeti\obj\Debug\FoodOrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\atame\Desktop\YemekSepeti\obj\Debug\YemekSepeti.exe
+C:\Users\atame\Desktop\YemekSepeti\obj\Debug\YemekSepeti.pdb
+C:\Users\atame\Desktop\YemekSepeti\bin\Debug\YemekSepeti.exe.config
+C:\Users\atame\Desktop\YemekSepeti\bin\Debug\YemekSepeti.exe
+C:\Users\atame\Desktop\YemekSepeti\bin\Debug\YemekSepeti.pdb
+C:\Users\atame\Desktop\YemekSepeti\bin\Debug\EntityFramework.dll
+C:\Users\atame\Desktop\YemekSepeti\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\atame\Desktop\YemekSepeti\bin\Debug\System.Data.SQLite.dll
+C:\Users\atame\Desktop\YemekSepeti\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\atame\Desktop\YemekSepeti\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\atame\Desktop\YemekSepeti\bin\Debug\EntityFramework.xml
+C:\Users\atame\Desktop\YemekSepeti\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\atame\Desktop\YemekSepeti\bin\Debug\System.Data.SQLite.xml
+C:\Users\atame\Desktop\YemekSepeti\obj\Debug\FoodOrderingSystem.csproj.CopyComplete
+C:\Users\atame\Desktop\Food Ordering System\obj\Debug\FoodOrderingSystem.csprojAssemblyReference.cache
+C:\Users\atame\Desktop\Food Ordering System\obj\Debug\FoodOrderingSystem.Form1.resources
+C:\Users\atame\Desktop\Food Ordering System\obj\Debug\YemekSepeti.Properties.Resources.resources
+C:\Users\atame\Desktop\Food Ordering System\obj\Debug\FoodOrderingSystem.csproj.GenerateResource.cache
+C:\Users\atame\Desktop\Food Ordering System\obj\Debug\FoodOrderingSystem.csproj.CoreCompileInputs.cache
+C:\Users\atame\Desktop\Food Ordering System\obj\Debug\YemekSepeti.exe
+C:\Users\atame\Desktop\Food Ordering System\obj\Debug\YemekSepeti.pdb
+C:\Users\atame\Desktop\Food Ordering System\bin\Debug\YemekSepeti.exe.config
+C:\Users\atame\Desktop\Food Ordering System\bin\Debug\YemekSepeti.exe
+C:\Users\atame\Desktop\Food Ordering System\bin\Debug\YemekSepeti.pdb
+C:\Users\atame\Desktop\Food Ordering System\bin\Debug\EntityFramework.dll
+C:\Users\atame\Desktop\Food Ordering System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\atame\Desktop\Food Ordering System\bin\Debug\System.Data.SQLite.dll
+C:\Users\atame\Desktop\Food Ordering System\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\atame\Desktop\Food Ordering System\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\atame\Desktop\Food Ordering System\bin\Debug\EntityFramework.xml
+C:\Users\atame\Desktop\Food Ordering System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\atame\Desktop\Food Ordering System\bin\Debug\System.Data.SQLite.xml
+C:\Users\atame\Desktop\Food Ordering System\obj\Debug\FoodOrderingSystem.csproj.CopyComplete
